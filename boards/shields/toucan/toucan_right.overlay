@@ -62,9 +62,9 @@
         scroll-angle = <30>; // The default angle (about 47 deg) is too big on toucan2 I think
         
         // was 100
-        sensitivity = <50>;
+        sensitivity = <45>;
         // was 100
-        scroll-sensitivity = <50>;
+        scroll-sensitivity = <40>;
 
         filter-settings=<0x0B>;
         hold-time = <500>;
